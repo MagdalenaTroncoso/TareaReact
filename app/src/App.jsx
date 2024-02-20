@@ -29,6 +29,3 @@ function App() {
 
 export default App
 
-
-
-//iba a empezar con css. No se me abre en la web. quizas es porque tengo abierto el Proyecto React 2
